@@ -22,7 +22,7 @@
      Discord: PlayerDM#8795
    </li>  
    <li>
-     <a href="github.com/MitkoVtori/Message-me">GitHub Public Conversations<a/>
+     <a href="https://github.com/MitkoVtori/Message-me">GitHub Public Conversations<a/>
    </li>  
     <li> 
       Email: farmpointsfarm@gmail.com
