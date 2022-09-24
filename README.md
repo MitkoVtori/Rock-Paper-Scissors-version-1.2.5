@@ -9,4 +9,4 @@ first open <a href="https://replit.com/@PlayerDMGAMING/Rock-Paper-Scissors-versi
 every time when the game end, you have to run it again.
 
 ### Workers
-  <a href="https://github/MitkoVtori > Dimitar Dimitrov </a>
+  <a href="https://github/MitkoVtori"> Dimitar Dimitrov </a>
