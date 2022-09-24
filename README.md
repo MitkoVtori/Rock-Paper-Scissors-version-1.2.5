@@ -15,3 +15,12 @@
   </ul>
   
   SoftUni: https://softuni.bg
+  
+### Contact me:
+<ul>
+   <li>
+     Discord: PlayerDM#8795
+     <a href="github.com/MitkoVtori/Message-me">GitHub Public Conversations<a/>
+     Email: farmpointsfarm@gmail.com
+   <li>
+<ul>
