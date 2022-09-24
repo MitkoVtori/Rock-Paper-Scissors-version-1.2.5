@@ -1,4 +1,4 @@
-# Rock Paper Scissors version 1.0
+# Rock Paper Scissors version 1.2.5
 
 # how to play
 ### first open <a href="https://replit.com/@PlayerDMGAMING/Rock-Paper-Scissors-version-10#main.py">this link<a/>
