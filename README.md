@@ -5,13 +5,15 @@ first open <a href="https://replit.com/@PlayerDMGAMING/Rock-Paper-Scissors-versi
 
 ### click Run to start the game
 ![Screenshot 2022-09-24 111207](https://user-images.githubusercontent.com/112943652/192088100-dda80c39-4487-4058-b60a-49c870de33db.png)
+<br>
 every time when the game end, you have to run it again.
 
 ### Workers
 <ul>
    <li>
-   <a href="https://github/MitkoVtori>Dimitar Dimitrov</a>
+   <a href="https://github/MitkoVtori > Dimitar Dimitrov </a>
    </li>
 </ul>
+<br>
 <br>
 SoftUni: https://softuni.bg
