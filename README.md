@@ -20,7 +20,11 @@
 <ul>
    <li>
      Discord: PlayerDM#8795
-     <a href="github.com/MitkoVtori/Message-me">GitHub Public Conversations<a/>
-     Email: farmpointsfarm@gmail.com
+   </li>  
    <li>
+     <a href="github.com/MitkoVtori/Message-me">GitHub Public Conversations<a/>
+   </li>  
+    <li> 
+      Email: farmpointsfarm@gmail.com
+    </li>
 <ul>
