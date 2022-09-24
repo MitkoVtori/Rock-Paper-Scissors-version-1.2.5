@@ -9,4 +9,10 @@ first open <a href="https://replit.com/@PlayerDMGAMING/Rock-Paper-Scissors-versi
 every time when the game end, you have to run it again.
 
 ### Workers
+ <ul>
+    <li>
   <a href="https://github/MitkoVtori"> Dimitar Dimitrov </a>
+    </li>
+  </ul>
+  
+  SoftUni: https://softuni.bg
